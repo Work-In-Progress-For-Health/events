@@ -1,38 +1,106 @@
-# Software Engineering Lightning Talks
+# Lightning Talks
 
 Draft - Work In Progress - Request For Collaboration
 
 ## Introduction
 
-NHS Wales has many software engineers, and many good ideas. We want to create a
-get-together where our teammates can do lightning talks to showcase ideas. 
+NHS Wales has many people and many good ideas. We want to create a get-together
+where our teammates can do lightning talks to showcase ideas.
 
-This is a bit like a TED Talk event, with the talks being focused on software
+A lightning talk event is a bit like a TED Talk event, typically with the talks being focused on a general area.
+
+For example, our group's first lightning talk event focused on software
 engineering, including practices, tooling, source code, learning and growth
 paths, and the like.
 
-For more please contact Joel Henderson (<joel.henderson@wales.nhs.uk>).
+If you would like to learn more about our lightning talks, or if you are curious
+about attending or presenting, then please get in touch with Joel Henderson
+(<joel.henderson@wales.nhs.uk>).
 
 ## Invitation
 
-Who: DHCW software engineers and related employees.
+Title: Lightning Talks on Agile, Analytics, Automation, AI.
+
+Who: NHS Wales staff and consultants who are keen to learn about our innovation and progress. 
 
 What: Twelve fast talks to inspire our technical teams.
 
-Where: Tŷ Glan-yr-Afon, 21 Cowbridge Road, East Cardiff, CF11 9AD, Cymru.
+Where: GIG Cymru, Tŷ Glan-yr-Afon, 21 Cowbridge Road, East Cardiff, CF11 9AD, Cymru.
 
-When: July 2. 9:00 a.m. - 12:30 p.m. talks, then 12:30 pizza lunch.
+When: September 10. 10:00-12:00 for the talks, plus more throughout the whole day.
 
 Why: Soft launch our new ways of working using our new conference area.
 
-Capacity: 50 people (TBD). RSVP please.
+Capacity: 100 people in person. RSVP please.
 
-## Soft launch
+## Talks
 
-We intend this to be a "soft launch" of our new conference area, and of our new
-ways of working. In other words, this is more like a first experiment with
-hosting this kind of event, and is less like a fully-professional fully-perfect
-conference.
+Each talk is 6 minutes, then a few minutes for people to ask questions online, for a maximum 9 minutes total.
+
+We want each presenter to have a few teammates in the crowd who are prepared with a few suitable questions, just in case no one else asks anything. In other words, we specifically want to seed questions, because this encourages more people to talk more.
+
+The next presenter will start immediately at the 10 minute mark because we're aiming to keep things on track.
+
+## Schedule
+
+We want to aim for one theme = one
+
+**Meet and greet**:
+
+* 09:00 Meet and greet with coffee and donuts - presenters please come and test your slides
+
+**Morning lightning talks**:
+
+* 10:00 Opening remarks
+
+* 10:10 Agile (talk 1)
+
+* 10:20 Agile (talk 2)
+
+* 10:30 Analytics (talk 3)
+
+* 10:40 Analytics (talk 4)
+
+* 10:50 Break for 10 minutes
+  
+* 11:00 Midway remarks
+
+* 11:10 Automation (talk 5)
+
+* 11:20 Automation (talk 6)
+
+* 11:30 AI (talk 7)
+
+* 11:40 AI (talk 8)
+
+* 11:50 Closing remarks
+
+**Lunch**:
+
+* 12:00 Lunch hour with pizza. [RSVP](joel.henderson@wales.nhs.uk) with your favorite pizza type and any dietary preferences and needs
+
+**Afternoon breakout sessions**:
+
+The afternoon breakout sessions are optional, and you can join whichever ones you wish. Each session is capped at 50 people in person so [RSVP](joel.henderson@wales.nhs.uk).
+
+* 13:00 = 1 p.m.: Agile breakout session (optional)
+
+* 14:00 = 2 p.m.: Analytics breakout session (optional)
+
+* 15:00 = 3 p.m.: Automation breakout session (optional)
+
+* 16:00 = 4 p.m.: AI breakout session (optional)
+
+## Ideas for presenters
+
+If you're considering becoming a presenter and you're seeking slide ideas, here
+are [six slide ideas](six-slide-ideas/). You can even time your presentation to
+one minute per slide, which makes it easy to stay on track.
+
+If you're considering becoming a presenter and you're seeking ways to make your
+presentation better, here are [communication
+strategies](communication-strategies). You can even practice these on your peers
+ahead of time.
 
 ## Themes
 
@@ -81,104 +149,3 @@ like.
 * Example idea for upskilling: how to leverage AI for learning new skills,
   such as new programming languages, new software programming paradigms, new
   tooling, etc.
-
-## Talks
-
-We want each talk to be 6 minutes, then a few minutes for questions, for a maximum 9 minutes total.
-
-We want each presenter to have a few teammates in the crowd who are prepared with a few suitable questions, just in case no one else asks anything. In other words, we specifically want to seed questions, because this encourages more people to talk more.
-
-The next presenter starts immediately at the 10 minute mark because we want to keep things fast and on track.
-
-## Six Slide Ideas
-
-If you're a presenter and you're seeking slide ideas, here are [six slide
-ideas](six-slide-ideas/). You can even time your presentation to one minute per
-slide, which makes it easy to stay on track.
-
-## Date & Time
-
-Tenative date: Wednesday July 2, 09:00 to 13:30.
-
-We believe this is the first avialable date when our new big presentation room is likely to be ready.
-
-Day:
-
-* We are choosing a Wednesday because more of our teammates are in the office.
-
-* We considered a Friday because more of our teammates have more-relaxed
-  schedules. However, many of the teammates are working from home on a Friday,
-  or on vacation on a Friday.
-
-Time:
-
-* We are considering 9 a.m. to noon for talks, then an hour for pizza lunch because we want attendees to meet and greet, and discuss the ideas.
-
-## Schedule
-
-We want to aim for one theme = one
-
-* 09:00 Take your seats
-
-* 09:10 Brief opening remarks
-
-* 09:20 New horizons
-
-* 09:30 UX talk 1
-
-* 09:40 UX talk 2
-
-* 09:50 UX talk 3
-
-* 10:00 Stretch for 10 minutes
-
-* 10:10 QA talk 1
-
-* 10:20 QA talk 2
-
-* 10:30 QA talk 3
-
-* 10:40 Break for coffee and conversation for 20 minutes
-  
-* 11:00 DX talk 1
-
-* 11:10 DX talk 2
-
-* 11:20 DX talk 3
-
-* 11:30 Stretch for 10 minutes
-
-* 11:40 AI talk 1
-
-* 11:50 AI talk 2: "Code at Light Speed: AI Tools Every Engineer Needs Now". Summary: A 6-minute dive into practical AI tools that are transforming software engineering - from GitHub Copilot to deployment automation. Attendees will see a short live demo, real ROI calculations, and get an actionable roadmap to implement AI in their development workflow.
-
-* 12:00 AI talk 3
-
-* 12:10 Put it into practice
-
-* 12:20 Brief closing remarks
-
-* 12:30 Lunch hour
-
-## Rooms
-
-We are requesting the largest conference room on the ground floor. We're requesting time from 08:00 (setup) to 14:00 (cleanup).
-
-We are also requesting the two medium-sized conference rooms on the ground for lunch setup. We're requesting time from 11:00 (setup) to 14:00 (cleanup).
-
-We are also requesting the main open area for lunch seating from 12:00 (no setup needed) to 14:00 (cleanup).
-
-## Corp services
-
-We are in touch with corporate services.
-
-The title of the event is "Software Engineering Lightning Talks".
-
-The contact person for the event is Joel Henderson (<joel.henderson@wales.nhs.uk>).
-
-## Attendees
-
-For this soft launch, we're able to invite employees but not external people. We
-do intend to hold a similar future event that's open to external people, such as
-our service providerfs, our peers at other organizations, our software
-stakeholders, etc.
