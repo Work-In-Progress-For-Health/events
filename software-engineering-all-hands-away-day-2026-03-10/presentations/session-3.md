@@ -1,6 +1,6 @@
 # Session 3: How Do We Get There in Cymraeg?
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### Slide 1: Deuparth gwaith yw ei ddechrau
 
-*Starting the work is two thirds of it.*
+_Starting the work is two thirds of it._
 
 This Welsh proverb tells us something every software engineer knows in their bones: the hardest part is beginning. The blank page, the empty repository, the first commit.
 
@@ -18,7 +18,7 @@ We have already started. Every system we maintain, every service we support, eve
 
 ### Slide 2: Tyfid maban, ni thyf ei gadachan
 
-*The child will grow, his clothes will not.*
+_The child will grow, his clothes will not._
 
 Our systems must grow with the needs they serve. What fits today will not fit tomorrow. Code that works for a hundred users will not work for a million. A process that serves one team will not serve ten.
 
@@ -28,7 +28,7 @@ Shift-left means catching the misfits earlier -- through agile discovery, rapid 
 
 ### Slide 3: Nerth gwlad, ei gwybodaeth
 
-*The strength of a nation is its knowledge.*
+_The strength of a nation is its knowledge._
 
 Wales is a nation of knowledge. Our strength is in our people -- their skills, their experience, their willingness to learn and share.
 
@@ -46,7 +46,7 @@ All-hands means we all work together, across silos, with mutual purpose. The str
 
 ---
 
-## Top levers
+### Slide 5: Top Levers
 
 - **High-trust** -- psychological safety, blameless reflection, making mistakes faster so we learn faster, creating an environment where people feel safe to experiment and fail
 - **Shift-left** -- agile discovery, rapid prototyping, behaviour-driven development, catching problems earlier when they are cheaper and easier to fix
@@ -103,4 +103,4 @@ All-hands means we all work together, across silos, with mutual purpose. The str
 
 **Facilitator tip:** This exercise requires genuine vulnerability. The facilitator should go first with their own example to set the tone. Keep it light but honest. If the group is not ready for this depth, pivot to the alternative activity.
 
-**Alternative activity:** "Shift-left simulation." Present a brief scenario: "A new feature has been requested. The deadline is in 8 weeks." Groups must decide how to split their time between discovery (understanding the problem), design (prototyping solutions), development (building), and delivery (testing and releasing). Discuss how shifting effort earlier changes outcomes. Compare group allocations and discuss the trade-offs.
+**Alternative activity:** "Shift-left simulation." Present a brief scenario: "A new feature has been requested. The output/outcome/impact will be..." Groups must decide how to split their time between discovery (understanding the problem), design (prototyping solutions), development (building), and delivery (testing and releasing). Discuss how shifting effort earlier changes outcomes. Compare group allocations and discuss the trade-offs.

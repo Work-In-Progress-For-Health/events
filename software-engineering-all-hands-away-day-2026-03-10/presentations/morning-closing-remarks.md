@@ -4,7 +4,7 @@
 
 ---
 
-## Slide 1: What We Explored This Morning
+### Slide 1: What We Explored This Morning
 
 Four sessions. Four big questions.
 
@@ -18,7 +18,7 @@ Four sessions. Four big questions.
 
 ---
 
-## Slide 2: Patterns and Threads
+### Slide 2: Patterns and Threads
 
 Notice what keeps surfacing:
 
@@ -30,7 +30,7 @@ These are not three separate things. They are one thing seen from three angles. 
 
 ---
 
-## Slide 3: From the Workshops
+### Slide 3: From the Workshops
 
 Take a moment to reflect on what stood out from the morning workshops.
 
@@ -42,7 +42,7 @@ Hold those thoughts. The afternoon will move from vision to action — from "whe
 
 ---
 
-## Slide 4: Lunch and Reset
+### Slide 4: Lunch and Reset
 
 Take a proper break. Eat. Walk. Talk to someone you don't usually sit with.
 

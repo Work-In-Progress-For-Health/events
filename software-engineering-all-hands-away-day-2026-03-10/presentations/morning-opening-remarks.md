@@ -4,7 +4,7 @@
 
 ---
 
-## Slide 1: Croeso — Welcome to Our Away Day
+### Slide 1: Croeso — Welcome to Our Away Day
 
 Welcome to the Software Engineering All Hands Away Day.
 
@@ -16,7 +16,7 @@ Today is about direction, not distraction. We are here to think together, talk t
 
 ---
 
-## Slide 2: The Shape of the Day
+### Slide 2: The Shape of the Day
 
 **Morning (Sessions 1–4)**
 
@@ -36,7 +36,7 @@ Each session is 30 minutes: a 15-minute talk followed by a 15-minute workshop. Y
 
 ---
 
-## Slide 3: How We Work Today
+### Slide 3: How We Work Today
 
 Every session surfaces three fears and three levers. Fears are honest. Levers are hopeful. Both are necessary.
 
@@ -50,7 +50,7 @@ Ground rules:
 
 ---
 
-## Slide 4: Why This Day Matters
+### Slide 4: Why This Day Matters
 
 We are not here to produce a document. We are here to produce alignment.
 

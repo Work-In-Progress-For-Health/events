@@ -1,6 +1,6 @@
 # Session 5: Moonshot Mission
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -30,7 +30,7 @@ A moonshot is not a side project. It is a strategic investment in the future.
 
 ### Slide 3: Dreic hylaw | Skillful dragon
 
-*Empowered professional, NOT committees.*
+_Empowered professional, NOT committees._
 
 Every moonshot needs a champion. Not a committee, not a steering group, not a governance board -- a person.
 
@@ -48,7 +48,7 @@ Committees diffuse responsibility. Empowered professionals concentrate it. When 
 
 ---
 
-## Top levers
+### Slide 5: Top Levers
 
 - **Covision** -- we see it together, we share the vision, we align around a common picture of what the moonshot achieves
 - **Coaction** -- we build it together, combining skills across disciplines to create something none of us could build alone
@@ -96,6 +96,7 @@ Committees diffuse responsibility. Empowered professionals concentrate it. When 
 **Step 1 (5 minutes):** Each group answers: "What is the single biggest problem facing NHS Wales that software could solve if we were bold enough?" Think big. Think about the 3 million people of Wales. Write the problem statement in one sentence.
 
 **Step 2 (5 minutes):** For that problem, sketch a moonshot in three bullet points:
+
 - **Covision:** What does success look like in 2030?
 - **Coaction:** What skills and disciplines need to come together?
 - **Coalescing:** What changes in daily work when this moonshot succeeds?

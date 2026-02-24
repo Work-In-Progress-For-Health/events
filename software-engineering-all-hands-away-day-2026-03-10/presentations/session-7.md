@@ -1,6 +1,6 @@
 # Session 7: Ground Control
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -46,7 +46,7 @@ We all must work to make coordination better. Not through more meetings or more 
 
 ---
 
-## Top levers
+### Slide 5: Top Levers
 
 - **Baseline open-source success** -- adopting open-source metrics frameworks (like DORA metrics) as a starting point, then adapting them to our context
 - **Rainbow deployments** -- each topic or initiative gets its own deployment environment, making progress visible and demonstrable without risking production

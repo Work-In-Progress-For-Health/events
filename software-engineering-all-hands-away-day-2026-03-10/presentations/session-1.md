@@ -1,6 +1,6 @@
 # Session 1: Where Are We Going?
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -30,17 +30,13 @@ What if we could see the health of the nation in real time? What if we could mod
 
 That is the scale of our opportunity.
 
----
+### Slide 4: Top Fears
 
-## Top fears
-
-- **Dementia** -- the fear of losing cognitive capacity at population scale, and the challenge of building systems that can support long-term, complex care journeys
 - **Cardiac collapse** -- the fear of sudden, catastrophic health events, and the urgency of building systems that enable rapid response
 - **Cancer** -- the fear of a disease that touches every family, and the challenge of building pathways that catch it earlier and treat it better
+- **Dementia** -- the fear of losing cognitive capacity at population scale, and the challenge of building systems that can support long-term, complex care journeys
 
----
-
-## Top levers
+### Slide 5: Top Levers
 
 - **Involvement** -- bringing everyone into the conversation, from frontline clinicians to patients to every member of this team
 - **Empowerment** -- giving people the tools, the authority, and the confidence to act

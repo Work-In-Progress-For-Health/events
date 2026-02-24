@@ -1,6 +1,6 @@
 # Session 8: Where Do We Go From Here?
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -36,17 +36,13 @@ FY2026 is your year. What training will make the biggest difference for you and 
 
 Tell us. We are listening. And we are committed to helping you grow, because your growth is our collective strength.
 
----
-
-## Top fears
+### Slide 4: Top Fears
 
 - **Overwhelm** -- the fear that there is too much to learn, too much to change, too much being asked of us on top of our daily work
 - **Discomfort** -- the fear that professional development means exposing gaps in our knowledge, admitting what we do not know, and feeling like beginners again
 - **Same as it ever was** -- the fear that despite all the ambition of today, nothing will actually change, and we will return to business as usual on Monday morning
 
----
-
-## Top levers (redux of Session 1)
+### Slide 5: Top Levers (redux of Session 1)
 
 - **Involvement** -- you are part of this. Your voice matters. Your ideas matter. Your participation is not optional for our success; it is essential.
 - **Empowerment** -- you have permission to grow. You have permission to lead. You have permission to try new things and to fail and to learn.
@@ -96,6 +92,7 @@ Tell us. We are listening. And we are committed to helping you grow, because you
 **Format:** Individual reflection first, then pairs, then whole room
 
 **Step 1 (4 minutes):** Each person writes on a card or sticky note, privately:
+
 - **One thing I learned today** that I want to carry forward
 - **One thing I will do differently** starting next week
 - **One thing I want to learn** in FY2026

@@ -1,10 +1,12 @@
 # Software engineering all hands away day
 
 March 10 is our first organisation-wide all hands away day for software
-engineering. We have an in-person space at Cornerstone, a lovely restored church
-in Cardiff City Centre and there's morning tea & coffee & treats, full lunch,
-and afternoon tea & coffee & snacks. Please come in person. If you want/need
-travel help, let me know, and ask your manager too.
+engineering.
+
+We have an in-person space at Cornerstone, a lovely restored church in Cardiff
+City Centre and there's morning tea & coffee & treats, full lunch, and afternoon
+tea & coffee & snacks. Please come in person. If you want/need travel help, let
+me know, and ask your manager too.
 
 This day is the launch of our software engineering community of practice, and
 the purpose of the day is to create our goals and metrics for the next year.
@@ -21,13 +23,28 @@ join via video.
 
 Sessions are aiming to emphasize active hands-on for participation for purpose, and not merely passive presentations.
 
+## Session overviews
+
+Each sessions is a 15 minute talk on a theme then 15 minute working session.
+
+| Session                         | Title                             | Theme                                                      |
+| ------------------------------- | --------------------------------- | ---------------------------------------------------------- |
+| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics |
+| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: TOM, OKRs, KPIs, saying yes/no/why/when          |
+| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands |
+| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   |
+| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         |
+| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       |
+| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     |
+| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, bookend with session 1           |
+
 ## Agenda
 
 09:00 Social time - optional (20m)
 
-09:30 [Morning opening remarks: introduce & inspire (20m)](<(presentations/morning-opening-remarks.md)>)
+09:30 [Morning opening remarks: introduce & inspire (20m)](presentations/morning-opening-remarks.md)
 
-09:50 [Session 1: Where are we going? (30m)](<(presentations/session-1.md)>)
+09:50 [Session 1: Where are we going? (30m)](presentations/session-1.md)
 
 - Can you imagine the future in exactly four years?
 - Can you imagine north stars for clinicians and patients?
@@ -107,18 +124,3 @@ Sessions are aiming to emphasize active hands-on for participation for purpose, 
 16:30 Social time
 
 17:00 Complete - any anyone who wants to come to the pub after, we'll go to City Arms.
-
-## Session overviews
-
-Each sessions is a 15 minute talk on a theme then 15 minute working session.
-
-| Session                         | Title                             | Theme                                                      |
-| ------------------------------- | --------------------------------- | ---------------------------------------------------------- |
-| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics |
-| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: TOM, OKRs, KPIs, saying yes/no/why/when          |
-| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands |
-| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   |
-| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         |
-| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       |
-| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     |
-| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, bookend with session 1           |

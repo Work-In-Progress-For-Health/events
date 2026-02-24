@@ -1,6 +1,6 @@
 # Session 6: Lunar Lander
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -30,7 +30,7 @@ A pizza-team (small enough to feed with two pizzas) builds, tests, and delivers 
 
 ### Slide 3: Dreic hylaw | Skillful dragon
 
-*Empowered professional leader.*
+_Empowered professional leader._
 
 Just as the moonshot needs a champion, every lunar lander needs one too.
 
@@ -50,7 +50,7 @@ This is what empowerment looks like in practice.
 
 ---
 
-## Top levers
+### Slide 5: Top Levers
 
 - **Singing from the same hymnbooks** -- alignment through shared principles, shared language, and shared understanding rather than through heavyweight governance
 - **Agile principles** -- returning to the core principles of the Agile Manifesto: working software, customer collaboration, responding to change
@@ -100,6 +100,7 @@ This is what empowerment looks like in practice.
 **Step 1 (3 minutes):** Each group selects one of the moonshot ideas from Session 5 (or their own if they prefer). Now ask: "What is one small, independent piece of this moonshot that a team could start on Monday morning?"
 
 **Step 2 (4 minutes):** Define the lunar lander using a simple template:
+
 - **Problem:** One sentence describing the user problem
 - **User:** Who specifically benefits?
 - **Three amigos discovery question:** What is the one thing we most need to learn in the first 2 weeks?

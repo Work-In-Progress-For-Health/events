@@ -4,7 +4,7 @@
 
 ---
 
-## Slide 1: Welcome Back
+### Slide 1: Welcome Back
 
 The morning gave us direction. The afternoon gives us action.
 
@@ -19,7 +19,7 @@ The four afternoon sessions build on each other:
 
 ---
 
-## Slide 2: From Vision to Boots on the Ground
+### Slide 2: From Vision to Boots on the Ground
 
 This morning we talked about fears and levers at the strategic level. This afternoon we get specific.
 
@@ -31,7 +31,7 @@ Both need a Dreic Hylaw — a skillful dragon. An empowered professional, not a 
 
 ---
 
-## Slide 3: Measurement and Growth
+### Slide 3: Measurement and Growth
 
 Ground Control reminds us that what we build must be measured. Metrics are a cross-cutting concern. Coordination is our weakest link, and we all must work to strengthen it.
 
@@ -39,7 +39,7 @@ Then we close with professional development. Software engineering is a professio
 
 ---
 
-## Slide 4: Afternoon Ground Rules
+### Slide 4: Afternoon Ground Rules
 
 The afternoon workshops will be more concrete than the morning. You may be asked to propose, sketch, or commit.
 

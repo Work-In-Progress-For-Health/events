@@ -1,6 +1,6 @@
 # Session 4: What Are Our Highest Multipliers?
 
-*15-minute talk + 15-minute workshop*
+_15-minute talk + 15-minute workshop_
 
 ---
 
@@ -44,7 +44,7 @@ Reactive teams fight fires. Proactive teams prevent them. Reactive systems break
 
 ---
 
-## Top levers
+### Slide 5: Top Levers
 
 - **Solidarity** -- we all support each other, across teams, across organisations, across roles
 - **Vulnerability** -- open discussion, public sharing, transparent ways of working that invite collaboration and feedback
