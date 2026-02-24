@@ -1,5 +1,12 @@
 # Software engineering all hands away day
 
+## Morning opening remarks
+
+Before sessions 1 2 3 4.
+20 minutes.
+Welcomes everyone, lays out the day's shape, sets ground rules, names the three core words (involvement, empowerment, encouragement)
+Starts the entire day event.
+
 ## Session 1: Where are we going? (15 minute talk, 15 minute workshop)
 
 3 slides:
@@ -80,6 +87,18 @@ Top levers:
 - vulnerability (a.k.a. open discussion, public sharing, transparent ways of working)
 - tranquility (a.k.a. calm and steady and sustainable ways of working)
 
+## Morning closing remarks
+
+Morning closing remarks after sessions 1 2 3 4.
+20 minutes.
+Recap sessions 1–4, surfaces the patterns of trust/clarity/togetherness, prompts reflection, sends people to lunch
+
+## Afternoon opening remarks
+
+Afternoon opening remarks before sessions 5 6 7 8.
+20 minutes.
+Reset energy, previews sessions 5–8, introduces the Moonshot/Lunar Lander pairing and Dreic Hylaw concept, adds "be specific" as an afternoon ground rule
+
 ## Session 5: Moonshot Mission (15 minute talk, 15 minute workshop)
 
 3 slides:
@@ -159,3 +178,10 @@ Top levers: (redux of session 1 top levers)
 - involvement
 - empowerment
 - encouragement
+
+## Afternoon closing remarks
+
+Afternoon closing remarks after sessions 5 6 7 8.
+20 minutes.
+Recap sessions 5–8, returns to the three opening words, lists concrete next steps, closes with Welsh proverbs and diolch.
+Finishes the entire day event.

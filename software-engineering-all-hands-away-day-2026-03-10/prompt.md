@@ -21,14 +21,14 @@ The arc of the day bookends with the same three levers -- involvement, empowerme
 
 Create 8 output files:
 
-- session-1.md
-- session-2.md
-- session-3.md
-- session-4.md
-- session-5.md
-- session-6.md
-- session-7.md
-- session-8.md
+- presentations/session-1.md
+- presentations/session-2.md
+- presentations/session-3.md
+- presentations/session-4.md
+- presentations/session-5.md
+- presentations/session-6.md
+- presentations/session-7.md
+- presentations/session-8.md
 
 Each output file:
 
@@ -62,19 +62,19 @@ Summary:
 
 Create 4 files:
 
-- morning-opening-remarks.md
+- presentations/morning-opening-remarks.md
   - morning opening remarks before sessions 1 2 3 4. 20 minutes.
   - Create 4 slides as text. Start the entire day event.
   - Welcomes everyone, lays out the day's shape, sets ground rules, names the three core words (involvement, empowerment, encouragement)
-- morning-closing-remarks.md
+- presentations/morning-closing-remarks.md
   - morning closing remarks after sessions 1 2 3 4. 20 minutes.
   - Create 4 slides as text.
   - Recap sessions 1–4, surfaces the patterns of trust/clarity/togetherness, prompts reflection, sends people to lunch
-- afternoon-opening-remarks.md
+- presentations/afternoon-opening-remarks.md
   - afternoon opening remarks before sessions 5 6 7 8. 20 minutes.
   - Create 4 slides as text.
   - Reset energy, previews sessions 5–8, introduces the Moonshot/Lunar Lander pairing and Dreic Hylaw concept, adds "be specific" as an afternoon ground rule
-- afternoon-closing-remarks.md
+- presentations/afternoon-closing-remarks.md
   - afternoon closing remarks after sessions 5 6 7 8. 20 minutes.
-  - Create 4 slides as text. Finishes the entire day event.
+  - Create 4 slides as text. Finish the entire day event.
   - Recaps sessions 5–8, returns to the three opening words, lists concrete next steps, closes with Welsh proverbs and diolch
