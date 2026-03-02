@@ -22,13 +22,13 @@ The power of strategy is not just knowing what to do -- it is knowing what NOT t
 
 "Why" gives us purpose. "When" gives us sequencing. Together they turn ambition into action.
 
-### Slide 3: How do you create protected time for help?
+### Slide 3: How do you create protected time for planning?
 
 Strategy fails without space. If every hour of every day is consumed by urgent work, there is no room for important work.
 
 Protected time is time set aside for planning, for learning, for helping each other. It is not a luxury -- it is a necessity. The teams that protect their time to think are the teams that build the best software.
 
-How do we protect time to help each other grow?
+How do we protect time for this?
 
 ### Slide 4: Top Fears
 
@@ -38,9 +38,14 @@ How do we protect time to help each other grow?
 
 ### Slide 5: Top Levers
 
-- **Target Operating Model (TOM)** -- the blueprint for how we organise, operate, and deliver as a software engineering function across NHS Wales
 - **Objectives & Key Results (OKRs)** -- the framework for setting ambitious goals and measuring meaningful outcomes at every level
 - **Key Performance Indicators (KPIs)** -- the metrics that tell us whether we are actually making progress or just staying busy
+
+If you're the leader and want to consider others:
+
+- **Target Operating Model (TOM)** -- the blueprint for how we organise, operate, and deliver as a software engineering function across NHS Wales
+- **Specific, Measurable, Actionable, Relatable, Timely (SMART)** - the critera for creating better OKRs, KPIs, TOMs, tasks, and teams.
+- **Work planning tactics** - how we plan work streams, ranging from projects/products/programmes to getting the right people/roles/resources.
 
 ---
 
@@ -51,7 +56,7 @@ How do we protect time to help each other grow?
 - Use a visual metaphor throughout this session: a literal map. Show a hand-drawn map with landmarks, hazards, and destinations. It does not need to be polished -- the informality reinforces that strategy is a living, evolving thing.
 - Contrast "busy" with "productive." Many teams confuse activity with progress. This session should challenge that assumption gently.
 - Share an example of a real project where saying "no" or "not yet" led to a better outcome.
-- Explain TOM, OKRs, and KPIs without jargon. Many staff will have heard these terms but may not feel confident using them. Demystify.
+- Explain OKRs and the rest, without jargon. Many staff will have heard these terms but may not feel confident using them. Demystify.
 
 ### Insights
 

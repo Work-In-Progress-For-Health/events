@@ -34,9 +34,7 @@ Reactive teams fight fires. Proactive teams prevent them. Reactive systems break
 
 "Wellness over illness" means investing in the health of our systems and our people before they break down. It means sustainable pace, technical debt management, and genuine care for each other's wellbeing.
 
----
-
-## Top fears
+### Slide 4: Top fears
 
 - **Not invented here (NIH)** -- the instinct to rebuild rather than reuse, to distrust solutions from outside our team, to believe our problems are uniquely special
 - **Exposure** -- fear of exposing secrets, confidential information, work in progress, or incomplete ideas before they are "ready"

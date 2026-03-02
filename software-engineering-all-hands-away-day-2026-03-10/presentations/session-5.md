@@ -38,9 +38,7 @@ Every moonshot needs a champion. Not a committee, not a steering group, not a go
 
 Committees diffuse responsibility. Empowered professionals concentrate it. When one person owns the vision and is trusted to pursue it, moonshots become possible. When responsibility is shared across twelve people and four governance layers, moonshots die in their cradle.
 
----
-
-## Top fears
+### Slide 4: Top fears
 
 - **Danger to patients** -- the fear that innovation in healthcare technology could cause harm, that moving fast could mean breaking things that must never break
 - **Resistance to innovation** -- the fear that the organisation will not support bold ideas, that bureaucracy will smother ambition, that "we've always done it this way" will prevail

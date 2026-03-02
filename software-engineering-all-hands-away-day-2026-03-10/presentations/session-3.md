@@ -36,15 +36,11 @@ In software engineering, knowledge is our most valuable asset. Not the code itse
 
 All-hands means we all work together, across silos, with mutual purpose. The strength of NHS Wales software engineering is the knowledge of every person in this room.
 
----
-
-## Top fears
+### Slide 4: Top fears
 
 - **Blame** -- the fear of being singled out when things go wrong, which kills innovation and drives people to hide mistakes rather than learn from them
 - **Leaving the middle of the road** -- the fear of taking a position, making a choice, or championing an approach that might be wrong, leading to safe mediocrity
 - **Weakness** -- the fear of admitting we do not know something, that we need help, that we are struggling, which prevents us from growing
-
----
 
 ### Slide 5: Top Levers
 

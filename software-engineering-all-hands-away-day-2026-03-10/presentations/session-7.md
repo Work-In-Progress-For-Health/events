@@ -36,9 +36,7 @@ It is not for lack of effort or goodwill. It is because coordination is genuinel
 
 We all must work to make coordination better. Not through more meetings or more governance, but through better tools, better visibility, and better habits. When ground control works well, every team can see where they are, where others are, and where they are all heading.
 
----
-
-## Top fears
+### Slide 4: Top fears
 
 - **One size doesn't fit all** -- the fear that any measurement framework will be too rigid for the diversity of teams, projects, and contexts across NHS Wales
 - **Lack of demo areas** -- the fear that without safe environments to demonstrate progress, work remains invisible and trust erodes

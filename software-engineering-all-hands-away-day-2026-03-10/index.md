@@ -25,18 +25,18 @@ Sessions are aiming to emphasize active hands-on for participation for purpose, 
 
 ## Session overviews
 
-Each sessions is a 15 minute talk on a theme then 15 minute working session.
+Each session is a 15 minute talk on a theme then 15 minute working session.
 
-| Session                         | Title                             | Theme                                                      |
-| ------------------------------- | --------------------------------- | ---------------------------------------------------------- |
-| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics |
-| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: TOM, OKRs, KPIs, saying yes/no/why/when          |
-| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands |
-| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   |
-| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         |
-| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       |
-| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     |
-| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, bookend with session 1           |
+| Session                         | Title                             | Theme                                                      | Ideal Leaders                             |
+| ------------------------------- | --------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics | Vickie Saunders, Head of Strategy         |
+| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: TOM, OKRs, KPIs, saying yes/no/why/when          | Dan Obi, Senior Service Designer          |
+| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands | Josh Hunt, Head of Agile Delivery         |
+| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   | Callum Nicholson at Capacitas             |
+| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         | Rachel Meese and/or UCD team              |
+| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       | Kainos                                    |
+| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     | Keith Reeves, Service Management Lead     |
+| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, bookend with session 1           | Stephanie Wright, Workforce Planning Lead |
 
 ## Agenda
 

@@ -40,9 +40,7 @@ They do not ask permission for every choice. They are trusted to lead. They repo
 
 This is what empowerment looks like in practice.
 
----
-
-## Top fears
+### Slide 4: Top fears
 
 - **Are we aligned enough?** -- the fear that without heavy coordination and governance, teams will diverge and duplicate effort or build the wrong thing
 - **Are we agile enough?** -- the fear that our processes, culture, and tooling are not mature enough for genuine iterative delivery
