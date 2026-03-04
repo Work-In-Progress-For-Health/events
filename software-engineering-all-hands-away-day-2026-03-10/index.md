@@ -3,40 +3,43 @@
 March 10 is our first organisation-wide all hands away day for software
 engineering.
 
-We have an in-person space at Cornerstone, a lovely restored church in Cardiff
-City Centre and there's morning tea & coffee & treats, full lunch, and afternoon
-tea & coffee & snacks. Please come in person. If you want/need travel help, let
-me know, and ask your manager too.
-
-This day is the launch of our software engineering community of practice, and
-the purpose of the day is to create our goals and metrics for the next year.
-This includes our programmers, testers, and anyone else who works closely with
-software engineering practices and wants to help.
-
-This is a planning day, meaning aim to come in person to participate.
+Purpose: This day is the launch of our software engineering community of
+practice, and the purpose of the day is to create our goals and metrics for the
+next year. This includes our programmers, testers, and anyone else who works
+closely with software engineering practices and wants to help. Sessions are
+aiming to emphasize active hands-on for participation for purpose, and not
+merely passive presentations.
 
 Location: [Cornerstone](https://cornerstonecardiff.org/), Charles St, Cardiff CF10 2GA.
+The is a lovely restored church in Cardiff City Centre near Marks & Spencer.
+
+Food & Drink: There's morning tea & coffee & treats, full lunch, and afternoon
+tea & coffee & snacks, for the first 80 people who RSVP.
+
+What to bring: Your laptop, ideally fully charged.
+
+Please come in person. If you want/need travel help, ask your manager or me.
+
+This is a planning day, meaning aim to come in person to participate.
 
 Please RSVP to the event so we can get a good count for planning the food. We
 have in-person slots for up to 150 people, and anyone after this will be able to
 join via video.
 
-Sessions are aiming to emphasize active hands-on for participation for purpose, and not merely passive presentations.
-
 ## Session overviews
 
 Each session is a 15 minute talk on a theme then 15 minute working session.
 
-| Session                         | Title                             | Theme                                                      | Ideal Leaders                             |
-| ------------------------------- | --------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
-| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics | Vickie Saunders, Head of Strategy         |
-| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: TOM, OKRs, KPIs, saying yes/no/why/when          | Dan Obi, Senior Service Designer          |
-| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands | Josh Hunt, Head of Agile Delivery         |
-| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   | Callum Nicholson at Capacitas             |
-| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         | Rachel Meese and/or UCD team              |
-| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       | Kainos                                    |
-| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     | Keith Reeves, Service Management Lead     |
-| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, bookend with session 1           | Stephanie Wright, Workforce Planning Lead |
+| Session                         | Title                             | Theme                                                      | Ideal Leaders                                |
+| ------------------------------- | --------------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
+| [1](presentations/session-1.md) | Where are we going                | Vision: four-year future, north stars, population dynamics | Vickie Saunders, Head of Strategy            |
+| [2](presentations/session-2.md) | Where are our maps and missions?  | Strategy: OKRs, KPIs, saying yes/no/why/when               | Dan Obi, Senior Service Designer             |
+| [3](presentations/session-3.md) | How do we get there in Cymraeg?   | Culture: Welsh proverbs, high-trust, shift-left, all-hands | Josh Hunt, Head of Agile Delivery            |
+| [4](presentations/session-4.md) | What are our highest multipliers? | Principles: solutions over silos, transparency, wellness   | Callum Nicholson, Capacitas                  |
+| [5](presentations/session-5.md) | Moonshot mission                  | Ambition: bold multi-year initiatives, dreic hylaw         | Joel Henderson, Head of Software Engineering |
+| [6](presentations/session-6.md) | Lunar lander                      | Execution: double-diamond, three amigos, pizza teams       | Xavier Senec, Kainos                         |
+| [7](presentations/session-7.md) | Ground control                    | Measurement: DORA metrics, rainbow deployments, ITIL 5     | Keith Reeves, Service Management Lead        |
+| [8](presentations/session-8.md) | Where do we go from here?         | Growth: SWEBOK, COP, CPD, LMS, bookend with session 1      | Shikala Mansfield, Talent & POD              |
 
 ## Agenda
 
@@ -44,23 +47,28 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 
 09:30 [Morning opening remarks: introduce & inspire (20m)](presentations/morning-opening-remarks.md)
 
+- Griff Williams: Welcome everyone - Master of Ceremonies (5m)
+- Kate Hughes for Cloud (5m)
+- Dan Thorne for GitHub (5m)
+- Rhian Rice for National Target Architecture (5m)
+
 09:50 [Session 1: Where are we going? (30m)](presentations/session-1.md)
 
 - Can you imagine the future in exactly four years?
-- Can you imagine north stars for clinicians and patients?
+- Can you imagine guide stars for clinicians and patients?
 - Can you imagine entire population dynamics?
-- Top fears: dementia, cardiac collapse, cancer
+- Top fears: cardiac collapse, cancer, dementia
 - Top waves: involvement, empowerment, encouragement
 
 10:20 [Session 2: Where are our maps and missions? (30m)](presentations/session-2.md)
 
 - How do you aim for goals and guides?
 - How do you say yes or no or why or when?
-- How do you create protected time for help?
+- How do you create protected time?
 - Top fears: the cart, the whip, the fog
-- Top waves: TOM, OKR, KPI
+- Top waves: OKR, KPI
 
-10:50 Break (20m)
+10:50 MC: thank you & take a break & please in seats by 11:10 (est. 10m-20m)
 
 11:10 [Session 3: How do we get there in Cymraeg? (30m)](presentations/session-3.md)
 
@@ -78,11 +86,22 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 - Top fears: NIH, exposure, confusion
 - Top waves: solidarity, vulnerability, tranquility
 
-12:10 [Morning closing remarks: review & reflect (20m)](presentations/morning-closing-remarks.md)
+12:10 [Morning introductions (20m)](presentations/morning-closing-remarks.md)
+
+- MC: Thanks & prep lunch
+- Rachel Meese: User-centred design and software engineering (5m)
+- Geri Cudmore: Welsh Clinical Portal Emergency Department API and software engineering (5m)
+- Ian Cox: Codespaces and software engineering (5m)
+- Lyn Rees: M365 authentication, authoriation, & software engineering (5m)
 
 12:30 Lunch break (50m)
 
 13:30 [Afternoon opening remarks: make it real (20m)](presentations/afternoon-opening-remarks.md)
+
+- Chris Collis: Welcome to the afternoon - Master of Ceremonies (5m)
+- Kevin Dowler: Public Health Wales introduct (5m) (please confirm w/ Joel)
+- Gareth John: Information Services team (5m) (please confirm w/ Joel)
+- Rhodri Evans: Architecture diagramming & software engineering (5m) (please confirm w/ Joel)
 
 13:50 [Session 5: Moonshot Mission (30m)](presentations/session-5.md)
 
@@ -100,7 +119,7 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 - Top fears: are we aligned enough?, are we agile enough?, are we cloud enough?
 - Top waves: agile, APIs, QAs
 
-14:50 Break (20m)
+14:50 MC: thank you & take a break & please back in seats by 15:10 (est. 10m-20m)
 
 15:10 [Session 7: Ground Control (30m)](presentations/session-7.md)
 
@@ -112,14 +131,15 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 
 15:40 [Session 8: Where do we go from here? (30m)](presentations/session-8.md)
 
-- Software engineering is a profession and we must step up to this
-- SWE Body Of Knowledge (BOK) & SWE Community Of Practice (COP) pairing
-- Continuous Professional Development (CPD) and what you want for training in FY2026
-
+- SWE Community Of Practice (COP) + SWE Body Of Knowledge (BOK)
+- Continuous Professional Development (CPD) and Learing Management System (LMS)
+- Software engineering is a profession and we must step up - what do you want?
 - Top fears: overwhelm, discomfort, same as it ever was
 - Top waves: involvement, empowerment, encouragement (a.k.a. session 1 coda)
 
 16:10 [Afternoon closing remarks: review & reflect (20m)](presentations/afternoon-closing-remarks.md)
+
+- What's next: quarterlies, guides, workshops, resources, etc.
 
 16:30 Social time
 

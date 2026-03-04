@@ -41,7 +41,7 @@ How do we protect time for this?
 - **Objectives & Key Results (OKRs)** -- the framework for setting ambitious goals and measuring meaningful outcomes at every level
 - **Key Performance Indicators (KPIs)** -- the metrics that tell us whether we are actually making progress or just staying busy
 
-If you're the leader and want to consider others:
+If you're the leader and want to consider other concepts:
 
 - **Target Operating Model (TOM)** -- the blueprint for how we organise, operate, and deliver as a software engineering function across NHS Wales
 - **Specific, Measurable, Actionable, Relatable, Timely (SMART)** - the critera for creating better OKRs, KPIs, TOMs, tasks, and teams.
