@@ -47,10 +47,10 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 
 09:30 [Morning opening remarks: introduce & inspire (20m)](presentations/morning-opening-remarks.md)
 
-- Griff Williams: Welcome everyone - Master of Ceremonies (5m)
+- MC Griff Williams: Welcome everyone, this is a day of ideas and inspirations together. (5m)
 - Kate Hughes for Cloud (5m)
 - Dan Thorne for GitHub (5m)
-- Rhian Rice for National Target Architecture (5m)
+- Joel Henderson for NHS Hack Day Weekend - March 21-22 (5m)
 
 09:50 [Session 1: Where are we going? (30m)](presentations/session-1.md)
 
@@ -68,7 +68,7 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 - Top fears: the cart, the whip, the fog
 - Top waves: OKR, KPI
 
-10:50 MC: thank you & take a break & please in seats by 11:10 (est. 10m-20m)
+10:50 MC Griff Williams: Thanks, take a break, back in seats by 11:10 sharp
 
 11:10 [Session 3: How do we get there in Cymraeg? (30m)](presentations/session-3.md)
 
@@ -88,17 +88,18 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 
 12:10 [Morning introductions (20m)](presentations/morning-closing-remarks.md)
 
-- MC: Thanks & prep lunch
+- MC Griff Williams: Thanks, we've completed the morning session, lunch soon
 - Rachel Meese: User-centred design and software engineering (5m)
 - Geri Cudmore: Welsh Clinical Portal Emergency Department API and software engineering (5m)
 - Ian Cox: Codespaces and software engineering (5m)
 - Lyn Rees: M365 authentication, authoriation, & software engineering (5m)
+- MC Griff Williams: Thanks for a great morning, enjoy lunch, back in seats 13:30 sharp
 
 12:30 Lunch break (50m)
 
 13:30 [Afternoon opening remarks: make it real (20m)](presentations/afternoon-opening-remarks.md)
 
-- Chris Collis: Welcome to the afternoon - Master of Ceremonies (5m)
+- MC Chris Collis: Welcome to the afternoon, which flows the ideas of the morning into becoming real (5m)
 - Kevin Dowler: Public Health Wales introduct (5m) (please confirm w/ Joel)
 - Gareth John: Information Services team (5m) (please confirm w/ Joel)
 - Rhodri Evans: Architecture diagramming & software engineering (5m) (please confirm w/ Joel)
@@ -119,7 +120,7 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 - Top fears: are we aligned enough?, are we agile enough?, are we cloud enough?
 - Top waves: agile, APIs, QAs
 
-14:50 MC: thank you & take a break & please back in seats by 15:10 (est. 10m-20m)
+14:50 MC Chris Collis: Thanks, take a break, back in seats by 15:10 sharp
 
 15:10 [Session 7: Ground Control (30m)](presentations/session-7.md)
 
@@ -137,9 +138,10 @@ Each session is a 15 minute talk on a theme then 15 minute working session.
 - Top fears: overwhelm, discomfort, same as it ever was
 - Top waves: involvement, empowerment, encouragement (a.k.a. session 1 coda)
 
-16:10 [Afternoon closing remarks: review & reflect (20m)](presentations/afternoon-closing-remarks.md)
+16:10 [Afternoon closing remarks by Joel: review & reflect (20m)](presentations/afternoon-closing-remarks.md)
 
-- What's next: quarterlies, guides, workshops, resources, etc.
+- Summarize the events and sessions
+- What's next: SWE COP, quarterlies, guides, workshops, resources, etc.
 
 16:30 Social time
 
